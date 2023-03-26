@@ -1,0 +1,29 @@
+#tu{
+    background-color:black;
+}
+.nav-link {
+    color:#fff;
+}
+.nav-link:hover {
+    color:Blue;
+}
+#navbar{
+    color:red;
+}
+ .block{
+    height:535px;
+    width: 1290px;
+    
+}
+.carousel-item{
+    text-align: center;
+} 
+#box{
+   display: flex;
+ text-align: center;
+}
+.sem{
+    text-align: center;
+
+}
+

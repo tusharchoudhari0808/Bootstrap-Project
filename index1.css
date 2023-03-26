@@ -1,0 +1,17 @@
+.container{
+    border:5px solid ;
+
+}
+.hed{
+    border:1px solid;
+    text-align:center;
+}
+.Bform{
+    text-align:center;
+    background-color: #59e7ea;
+}
+.name{
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
